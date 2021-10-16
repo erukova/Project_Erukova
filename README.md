@@ -36,12 +36,17 @@
 
 или так
 
-![](Gaarage.jpg)
+![](Gaarage.png)
 
 
 ## Чем поможет библиотека Emoji?
 
+При загрузке и обработке текста с эмодзи можно расшифровать их таким образом:
 
+```
+emoji.demojize("🤯")
+:exploding_head:
+```
 
 
 ссылка на код: [тут](https://colab.research.google.com/drive/1uIZwVbDcw9sP44FomTnLUF_HtQkOtvtJ?authuser=1#scrollTo=pko9TzIXmB_J)
