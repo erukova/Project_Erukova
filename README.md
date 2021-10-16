@@ -1,4 +1,5 @@
-# Project_Erukova
+# Как распознать эмоции в тексте
+![](![image](https://user-images.githubusercontent.com/91029600/137596759-4d45f4cf-fcfa-4c1e-abed-8fe4c595f6a3.jpeg)
 ## Title
 ### title 2
 **жирный текст
