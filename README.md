@@ -28,6 +28,10 @@
 
 Конечно, бывает так
 
+![image](https://user-images.githubusercontent.com/91029600/137599207-03ab1ae9-41c1-4cba-8a5e-005f2c66e15b.jpeg)
+
+Но чаще уже так
+
 
 
 
